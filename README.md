@@ -1,6 +1,6 @@
 # Product preview card component solution
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)]()
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://product-preview-card-comp-solution.netlify.app/)
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). 🙌
 
@@ -32,8 +32,8 @@ Users should be able to:
 
 ### ➥ Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Product Preview Card Component (BEM / CSS Grid / Mobile-first)](https://www.frontendmentor.io/solutions/product-preview-card-component-bem-css-grid-mobilefirst-mY7pwAsC0E)
+- Live Site URL: [Frontend Mentor | Product preview card component Solution](https://product-preview-card-comp-solution.netlify.app/)
 
 ## ✔ My process
 
